@@ -37,3 +37,7 @@ I can read any book, and with the help of an AI chatbot, I can ask smart, contex
 4. Workflow Automation
 5. Summarization/Research Helpers
 
+## Alternatives of LangChain
+
+1. LamaIndex
+2. HayStack
